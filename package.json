@@ -59,7 +59,7 @@
     "sass": "^1.22.12"
   },
   "engines": {
-    "node": ">= 10.*"
+    "node": ">= 14.*"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
