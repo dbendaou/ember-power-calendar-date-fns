@@ -44,7 +44,8 @@ jobs:
           - 'ember-release'
           - 'ember-beta'
           - 'ember-canary'
-          - 'ember-default-with-jquery'
+          - 'embroider-safe'
+          - 'embroider-optimized'
 
     steps:
       - name: Checkout
