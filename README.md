@@ -18,7 +18,7 @@ Compatibility
 ------------------------------------------------------------------------------
 
 * Ember.js v3.11 or above
-* Node.js v10 or above
+* Node.js v14 or above
 
 | ember | date-fns | ember-power-calendar-date-fns |
 | -------:| -------------:| -----:|
